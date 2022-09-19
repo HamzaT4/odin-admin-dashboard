@@ -1,0 +1,9 @@
+.item{
+    background-color: aqua;
+    min-height: 100px;
+}
+
+.grid-container{
+    display: grid;
+    
+}
